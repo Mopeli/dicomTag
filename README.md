@@ -1,0 +1,2 @@
+# dicomTag
+reads dicom file 
